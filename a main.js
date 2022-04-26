@@ -4,10 +4,10 @@ function maths_quiz()
 }
 function Golf_Game()
 {
-    window.location="golf game index.html"
+    window.location="kolf game index.html"
 }
 function Guess_word()
 {
 
-    window.location="guess the word.html"
+    window.location="word.html"
 }
